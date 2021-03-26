@@ -5,7 +5,7 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 😄 Pronouns: He/Him/His 
+- 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on: a multivariate time-series forecasting modelling project
 - :heart: My favorite language: SQL
 - 🌱 I’m currently learning: Recurrent nueral nets
@@ -13,7 +13,6 @@
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: KoBo Toolbox, Child's Play, Intelehealth, Code For Progress
 - 💜 Interests: philosophy, travel, olympic lifting, internet culture, video games
-- ⚡ Fun fact: My ultimate dream is to aid the world organizations reach sustainable development goals via Data Science. 🖖
 
 <br/>
 
@@ -51,7 +50,7 @@ Libraries Utilized: readxl, e1071, shiny, shinydashboard, shinythemes
 
 
 ### [ Employee Appointment Data Analysis: ](https://github.com/umangU/Appointment1000)<br>
-Analyzing and comparing classification models on the "Appointment1000" dataset.<br>
+Analyzing and comparing supervised-classification models on the "Appointment1000" dataset.<br>
 Libraries utilized: MASS, class, caTools
 
 </p>
