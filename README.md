@@ -21,11 +21,11 @@
 - :space_invader: &nbsp;
   ![Python](https://img.shields.io/badge/Python-1F5174?style=for-the-badge&logo=python&logoColor=white)
   ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![R](https://img.shields.io/badge/R-194360?style=for-the-badge&logo=R&logoColor=white)
 - 🌐 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&logo=Tableau&logoColor=yellow)
   ![RStudio](https://img.shields.io/badge/Studio-FFFFFF?style=for-the-badge&logo=RStudio&logoColor=4D8CFF)
+  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Atom](https://img.shields.io/badge/Atom-0F2738?&style=for-the-badge&logo=atom&logoColor=lightgreen)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
