@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: a multivariate time-series forecasting modelling project
 - :heart: My favorite language: SQL
 - 🌱 I’m currently learning: Recurrent nueral nets
-- 👯 I’m always looking to collaborate with: scientist from any field
+- 💼 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: KoBo Toolbox, Child's Play, Intelehealth, Code For Progress
 - 💜 Interests: philosophy, travel, olympic lifting, internet culture, video games
