@@ -40,14 +40,14 @@
 <p>
 
 ## 📝 Recent Projects
+### [ Neural Networks: ](https://github.com/umangU/Neural-Networks.git)<br>
+Implementing Feed-Forward neural networks on the "Wool" dataset while looping through 1-7 hidden units and changing the train/test ratio. <br> 
+**Libraries Utilized**: neuralnet
+
 ### [ Propensity Modelling: ](https://github.com/umangU/Propensity-Model.git)<br>
 SQL Stored Procedures with R's external scripts to predict a client's probability of defaulting on loan using support vector machines.<br>
 R-based web application that allows a user to upload a dataset and get the prediction on client's likelihood of defaulting on loan. <br>
 **Libraries Utilized**: readxl, e1071, shiny, shinydashboard, shinythemes <br>
-
-### [ Neural Networks: ](https://github.com/umangU/Neural-Networks.git)<br>
-Implementing Feed-Forward neural networks on the "Wool" dataset while looping through 1-7 hidden units and changing the train/test ratio. <br> 
-**Libraries Utilized**: neuralnet
 
 ### [ Appointment Data Analysis: ](https://github.com/umangU/Appointment1000)<br>
 Analyzing and comparing supervised-classification models on the "Appointment1000" dataset.<br>
