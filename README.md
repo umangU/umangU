@@ -41,12 +41,11 @@
 
 ## 📝 Recent Projects
 ### [ Propensity Modelling: ](https://github.com/umangU/Propensity-Model.git)<br>
-SQL Stored Procedures with R's external scripts to predict a client's probability of defaulting on loan using support vector machines.<br>
-Additional Packages Utilized: e1071
+SQL Stored Procedures with R's external scripts to predict a client's probability of defaulting on loan using support vector machines. <br>
+R-based web application that allows a user to upload a dataset and get the prediction on client's likelihood of defaulting on loan. <br>
+Libraries Utilized: readxl, e1071, shiny, shinydashboard, shinythemes <br>
 
 ### [ Neural Networks: ](https://github.com/umangU/Neural-Networks.git)<br>
-R-based web application that allows a user to upload a dataset and get the prediction on wheather the clients will default on loan or not. <br>
-Libraries Utilized: readxl, e1071, shiny, shinydashboard, shinythemes 
 
 
 ### [ Appointment Data Analysis: ](https://github.com/umangU/Appointment1000)<br>
