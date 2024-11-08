@@ -1,81 +1,37 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> <h3 align="center">Hey there, I'm Umang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-<h3 align="center">Hey there, I'm Umang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3>🌟 Current Project</h3>
+Cookventory is a personal kitchen assistant designed to make cooking and meal planning as seamless as possible. My work on Cookventory involves creating a tool that not only helps users ecommends recipes, builds meal plans but also keep track of their pantry using LIVE video, and generate shopping lists—all tailored to what you already have in your kitchen.
 
+<h3> 💡 Why Cookventory? </h3>
+Managing ingredients, avoiding food waste, and planning meals can be challenging, especially for busy professionals and families. Cookventory aims to simplify kitchen management by providing an intuitive and organized solution so users can spend less time planning and more time enjoying meals.
 
-<h3> :man: &nbsp;About Me </h3>
+<h3>🚀 Project Highlights</h3>
 
-- 😄 Pronouns: He/Him/His
-- 🔭 I’m currently working on: a multivariate time-series forecasting modelling project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: Recurrent nueral nets
-- 💼 I’m always looking to collaborate with: people from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: KoBo Toolbox, Child's Play, Intelehealth, Code For Progress
-- 💜 Interests: philosophy, travel, olympic lifting, internet culture, video games
+<ul>
+  <li><strong>MVP Launched</strong>: August 2024</li>
+  <li><strong>Core Features</strong>:
+    <ul>
+      <li>Pantry tracking for real-time inventory management</li>
+      <li>Recipe suggestions based on available ingredients</li>
+      <li>Easy-to-use meal planner</li>
+      <li>Auto-generated shopping list based on pantry needs</li>
+    </ul>
+  </li>
+</ul>
 
-<br/>
+<h3>🌍 Tech Stack</h3>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<ul>
+  <li><strong>Backend</strong>: Python, PostgreSQL, Node.js</li>
+  <li><strong>Frontend</strong>: Flutter</li>
+  <li><strong>Machine Learning</strong>: YOLO, Img2Vec, Nearest Neighbour, Cosine Similarity for intelligent recipe recommendations</li>
+  <li><strong>Database</strong>: MongoDB</li>
+</ul>
 
-- :space_invader: &nbsp;
-  ![Python](https://img.shields.io/badge/Python-1F5174?style=for-the-badge&logo=python&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![R](https://img.shields.io/badge/R-194360?style=for-the-badge&logo=R&logoColor=white)
-- 🌐 &nbsp;
-  ![Tableau](https://img.shields.io/badge/Tableau-14354C?style=for-the-badge&logo=Tableau&logoColor=yellow)
-  ![RStudio](https://img.shields.io/badge/Studio-FFFFFF?style=for-the-badge&logo=RStudio&logoColor=4D8CFF)
-  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Atom](https://img.shields.io/badge/Atom-0F2738?&style=for-the-badge&logo=atom&logoColor=lightgreen)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- 💻 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<h3>📝 What’s Next for Cookventory?</h3>
 
+<p>As I continue to work on Cookventory, the focus is on implementing an IoT approach for increased automation, particularly catering to high-end households looking for a seamless and smart kitchen experience!</p>
 
-<br/>
-
-<p>
-
-## 📝 Recent Projects
-### [ Neural Networks: ](https://github.com/umangU/Neural-Networks.git)<br>
-Implementing Feed-Forward neural networks on the "Wool" dataset while looping through 1-7 hidden units and changing the train/test ratio. <br> 
-**Libraries Utilized**: neuralnet
-
-### [ Propensity Modelling: ](https://github.com/umangU/Propensity-Model.git)<br>
-SQL Stored Procedures with R's external scripts to predict a client's probability of defaulting on loan using support vector machines.<br>
-R-based web application that allows a user to upload a dataset and get the prediction on client's likelihood of defaulting on loan. <br>
-**Libraries Utilized**: readxl, e1071, shiny, shinydashboard, shinythemes <br>
-
-### [ Appointment Data Analysis: ](https://github.com/umangU/Appointment1000)<br>
-Analyzing and comparing supervised-classification models on the "Appointment1000" dataset.<br>
-Libraries utilized: MASS, class, caTools
-
-</p>
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/umang-uliana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/UlianaUmang"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="mailto:umanguliana@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
-
-
-<br/> 
-<p>
-
-<a align= "center" href="https://github.com/umangU">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=umangU&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
-
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/umangU"/>
-</p>
+<h3> 🤝 Connect with Me </h3>
+If you’re interested in Cookventory or want to chat about kitchen tech, feel free to reach out!
